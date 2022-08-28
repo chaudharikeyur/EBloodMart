@@ -1,5 +1,5 @@
 # EBloodMart
-Blood Donation management System
+
 ## Blood Donation Management System 
 
 ### Description 
